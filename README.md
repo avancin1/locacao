@@ -180,7 +180,7 @@ O vídeo apresenta o funcionamento do sistema, demonstrando suas principais func
 
 Durante o desenvolvimento, foram utilizadas ferramentas de Inteligência Artificial como apoio para esclarecer dúvidas, revisar trechos de código e auxiliar na organização do projeto.
 
-O registro das atividades em que houve utilização dessas ferramentas está disponível no arquivo `USO_IA.md`.
+O registro das atividades em que houve utilização dessas ferramentas está disponível no arquivo `PROMPTS.md`.
 
 ## Informações acadêmicas
 
